@@ -1,9 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Kabir 😁</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-  <b>Final Year IT Undergraduate | ML Explorer</b>
+  <img src="./assets/ezgif-6fa8cc056db59b.gif">
 </p>
+
 
 ---
 
