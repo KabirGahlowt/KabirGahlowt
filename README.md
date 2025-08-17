@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ezgif-6fa8cc056db59b.gif" width="100%">
+  <img src="./assets/2025-08-1720-20-45-ezgif.com-video-to-gif-converter.gif" width="700px">
 </p>
 
 
